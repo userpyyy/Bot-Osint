@@ -1,2 +1,8 @@
 # Bot-Osint
-Bot Node.js Osint-Dev Open Source
+
+- Bot Osint Node.js Open Source Dev Node V18 -
+
+
+[2025 COPYRIGHT @userpy]
+
+
